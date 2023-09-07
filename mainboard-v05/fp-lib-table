@@ -1,4 +1,4 @@
-
 (fp_lib_table
-  (lib (name "mainboard")(type KiCad)(uri "$(KIPRJMOD)/mainboard.pretty")(options "")(descr ""))
+  (version 7)
+  (lib (name "mainboard")(type "KiCad")(uri "${KIPRJMOD}/mainboard.pretty")(options "")(descr ""))
 )
